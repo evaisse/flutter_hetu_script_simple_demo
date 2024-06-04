@@ -1,0 +1,4 @@
+
+fun hello {
+  return 'Hello, world!'
+}
